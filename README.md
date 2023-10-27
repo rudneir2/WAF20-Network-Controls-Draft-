@@ -15,7 +15,7 @@ Attacks against network environment may happen in different resources of your ne
 
 The good one is that we have many security solutions that may protect you against those practices above and much more. In this use case, we are considering an IT environment, the reference presented in the chapter "Baseline" (add a link here) with some workloads, components, and personas that will help you understand all the recommendations in this chapter, regarding **Network controls**.
 
-![image](https://github.com/rudneir2/WAF20-Network-Controls-Draft-/assets/97529152/b3b88049-64b5-4b71-9808-d8f62796a2c5)
+![image](https://github.com/rudneir2/WAF20-Network-Controls-Draft-/assets/97529152/0ad3f884-5ea9-434b-9f18-6f620052b711)
 
 Let's consider the following in the diagram:
 
